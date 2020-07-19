@@ -1,5 +1,5 @@
 # Sudoku-Solver
-A [Pygame](https://www.pygame.org/) GUI  that displays an algorithmic resolution of a randomly generated sudoku.
+A [Pygame](https://www.pygame.org/) GUI that displays an algorithmic resolution of a randomly generated sudoku.
 
 # Preview
 
